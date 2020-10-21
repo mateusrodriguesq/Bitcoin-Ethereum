@@ -3,3 +3,6 @@ Os dados utilizados foram extraídos do site coindesk.com, aonde é possível se
 Ethereum: https://www.coindesk.com/price/ethereum
 
 Bitcoin: https://www.coindesk.com/price/bitcoin
+
+Notebook no Google Colab: https://colab.research.google.com/drive/1ARgC-I42XVmwe8vkMedLiRcytL6Tih2C?usp=sharing
+
